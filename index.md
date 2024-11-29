@@ -13,7 +13,7 @@ author_profile: true
 <font size="4"><b>Video Editing for Video Retrieval</b><br>
 Bin Zhu, <b>Kevin Flanagan</b>, Adriano Fragomeni, Michael Wray, Dima Damen<br>
 <i>ECCV 2024 Workshop on Assistive Computer Vision and Robotics</i></font>
-[<font size="4">[ArXiv]</font>](https://arxiv.org/abs/2310.17395)
+[<font size="4">[ArXiv]</font>](https://arxiv.org/abs/2402.02335)
 {:style="clear: left"}
 ![](assets/images/climer.png){: width="270" }{: .align-left}
 <font size="4"><b>Learning Temporal Sentence Grounding From Narrated EgoVideos</b><br>
