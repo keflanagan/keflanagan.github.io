@@ -5,10 +5,16 @@ author_profile: true
 ---
 <font size="6"><b>Bio</b></font>
 
-<p><font size="4">I am a PhD Student in Computer Vision in the University of Bristol supervised by Dr. Michael Wray and Prof. Dima Damen.</font></p> 
+<p><font size="4">I am a PhD Student in Computer Vision in the University of Bristol supervised by Dr. Michael Wray and Prof. Dima Damen. My work is mainly in video-language understanding and egocentric vision. Prior to this I completed a Research Masters in University College Dublin using AI & computer vision techniques for high energy astrophysics.</font></p> 
 
 
 ## Publications
+![](assets/images/hdepic.gif){: width="270" }{: .align-left}
+<font size="4"><b>HD-EPIC: A Highly-Detailed Egocentric Video Dataset</b><br>
+Toby Perrett, Ahmad Darkhalil, Saptarshi Sinha, Omar Emara, Sam Pollard, Kranti Parida, Kaiting Liu, Prajwal Gatti, Siddhant Bansal, <b>Kevin Flanagan</b>, Jacob Chalk, Zhifan Zhu, Rhodri Guerrier, Fahd Abdelazim, Bin Zhu, Davide Moltisanti, Michael Wray, Hazel Doughty, Dima Damen<br>
+<i>ArXiv</i></font>
+[<font size="4">[ArXiv]</font>](https://arxiv.org/abs/2502.04144)
+{:style="clear: left"}
 ![](assets/images/video_edit.png){: width="270" }{: .align-left}
 <font size="4"><b>Video Editing for Video Retrieval</b><br>
 Bin Zhu, <b>Kevin Flanagan</b>, Adriano Fragomeni, Michael Wray, Dima Damen<br>
