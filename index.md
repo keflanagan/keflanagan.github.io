@@ -9,8 +9,7 @@ author_profile: true
 
 
 ## Publications
-![](assets/images/moment_of_untruth.png){: width="300" }{: .align-left}
-<font size="4"><b>Moment of Untruth: Dealing with Negative Queries in Video Moment Retrieval</b><br>
+![](assets/images/moment_of_untruth.png){: width="300" }{: .align-left}<font size="4"><b>Moment of Untruth: Dealing with Negative Queries in Video Moment Retrieval</b><br>
 <b>Kevin Flanagan</b>, Dima Damen, Michael Wray<br>
 <i>WACV 2025</i></font>
 [<font size="4">[Webpage]</font>](https://keflanagan.github.io/Moment-of-Untruth) [<font size="4">[ArXiv]</font>](https://arxiv.org/abs/2502.08544) [<font size="4">[Code]</font>](https://github.com/keflanagan/MomentofUntruth)
